@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-levisawatz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levisawatz@gmail.com)](mailto:levisawatz@gmail.com) 
 
 
-(Cube_sims/screenshots/cubes-cropped.gif)
+![cubes](../Cube_sims/screenshots/cubes-cropped.gif)
 - 🎓 Currently Studying <a href="https://schulich.ucalgary.ca/electrical-software/">Electrical Enginneering</a> at the University of Calgary
 
 
