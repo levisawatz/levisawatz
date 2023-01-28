@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-levi_sawatzky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/levi-sawatzky-14b0a3234/)](https://https://www.linkedin.com/in/levi-sawatzky-14b0a3234/)
 [![Gmail Badge](https://img.shields.io/badge/-levisawatz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levisawatz@gmail.com)](mailto:levisawatz@gmail.com) 
 
-
-![cubes](../Cube_sims/screenshots/cubes-cropped.gif)
 - 🎓 Currently Studying <a href="https://schulich.ucalgary.ca/electrical-software/">Electrical Enginneering</a> at the University of Calgary
 
 
@@ -29,6 +27,9 @@ Here are some ideas to get you started:
 - Python  💻
 - Electronics ⚡
 - Learning New Things 📚
+
+my python cube renderer:
+<img src="../Cube_sims/screenshots/cubes-cropped.gif" width="200" height="150" />
 
 
 ### 💬 Languages I use
