@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Learning New Things 📚
 
 my python cube renderer:
-<img src="../Cube_sims/screenshots/cubes-cropped.gif" width="200" height="150" />
+<img src="![image](https://user-images.githubusercontent.com/85774651/215296044-2240794d-020e-44ba-9d3d-05eba8ac4b5f.png)" width="200" height="150" />
 
 
 ### 💬 Languages I use
