@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="none" />
 
-- 🎓 Currently Studying <a href="https://schulich.ucalgary.ca/electrical-digital/">Electrical Enginneering</a> at the University of Calgary
+- 🎓 Currently Studying <a href="https://schulich.ucalgary.ca/electrical-software/">Electrical Enginneering</a> at the University of Calgary
 
 
 ### Things I love:
