@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Things I love:
 
-- Python 
+- Python  💻
 - Electronics ⚡
 - Learning New Things 📚
 
