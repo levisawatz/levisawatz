@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 - Learning New Things 📚
 
 my python cube renderer:
-![image](https://user-images.githubusercontent.com/85774651/215296044-2240794d-020e-44ba-9d3d-05eba8ac4b5f.png)
+
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/85774651/215296044-2240794d-020e-44ba-9d3d-05eba8ac4b5f.gif)" alt="drawing" width="200"/>
+
 
 
 ### 💬 Languages I use
