@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 my python cube renderer:
 
-<img src="[drawing.gif](https://github.com/levisawatz/Cube_sims/blob/main/screenshots/cubes-cropped.gif)" alt="drawing" width="200"/>
+<img src="https://github.com/levisawatz/Cube_sims/blob/main/screenshots/cubes-cropped.gif" alt="drawing" width="200"/>
 
 
 
