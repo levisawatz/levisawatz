@@ -36,9 +36,9 @@ my python cube renderer: <a href="https://github.com/levisawatz/Cube_sims/">Cube
 
 ### 💬 Languages I use
 
- - 🖥 I know these a lot (Proficient):
+ - 🖥 Proficient:
     **Python, C, MATLAB, Systemverilog**
- - 💭 I kinda know these (Familiar):
+ - 💭 Familiar:
     **Java, C++, SQL**
  - 🔨 Here are some tools that I use:
     <br>
