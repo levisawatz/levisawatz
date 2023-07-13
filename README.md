@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/the%20saucer%20team.jpg" alt="drawing" width="200"/>
 
 
-#### My python cube renderer: <a href="https://github.com/levisawatz/Cube_sims/">Cube_sims</a>  
+#### Python Cube renderer / Game engine: <a href="https://github.com/levisawatz/Cube_sims/">Cube_sims</a>  
 
 <img src="https://github.com/levisawatz/Cube_sims/blob/main/screenshots/cubes-cropped.gif" alt="drawing" width="200"/>
 
