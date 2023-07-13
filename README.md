@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/levisawatz/Cube_sims/blob/main/screenshots/cubes-cropped.gif" alt="drawing" width="200"/>
 
 #### Tesla coil!  
-(gif takes a moment to load)  
-<img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/tesla_demo%20(1).gif" alt="drawing" width="200"/>
+<img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/tesla_demo%20(1).gif" alt="drawing" width="200"/>  
+(gif may take a moment to load)  
 
 
 ### 💬 Languages I use
