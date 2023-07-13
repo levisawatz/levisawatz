@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - Python  💻
 - Learning New Things 📚
 
+### My projects:  
 #### Levitating saucer project: <a href="https://github.com/levisawatz/Levitating-Saucer/">Levitating-Saucer</a> 
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/the%20saucer%20team.jpg" alt="drawing" width="200"/>
 
