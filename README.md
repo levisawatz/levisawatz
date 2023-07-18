@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     <br>
     Version Control: **Git**
     <br>
-    Some Designing: **Fusion360, Altium, LTSpice**
+    Some Designing: **Altium, LTSpice, Fusion360**
     <br>
     
  
