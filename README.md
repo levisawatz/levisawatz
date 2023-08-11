@@ -29,15 +29,19 @@ Here are some ideas to get you started:
 - Learning New Things 📚
 
 ### My projects:  
-#### Levitating saucer project: <a href="https://github.com/levisawatz/Levitating-Saucer/">Levitating-Saucer</a> 
+#### Levitating Saucer Project: <a href="https://github.com/levisawatz/Levitating-Saucer/">Levitating-Saucer</a> 
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/the%20saucer%20team.jpg" alt="drawing" width="200"/>
 
 
-#### Python Cube renderer / Game engine: <a href="https://github.com/levisawatz/Cube_sims/">Cube_sims</a>  
+#### Python Cube Renderer / Game engine: <a href="https://github.com/levisawatz/Cube_sims/">Cube_sims</a>  
 
 <img src="https://github.com/levisawatz/Cube_sims/blob/main/screenshots/cubes-cropped.gif" alt="drawing" width="200"/>
 
-#### Tesla coil!  
+#### Soviet Nixie Tube Clock: <a href="https://github.com/levisawatz/Nixie_Clock/">Nixie_Clock</a>  
+
+<img src="https://github.com/levisawatz/Nixie_Clock/blob/main/images/nixie clock" alt="drawing" width="200"/>
+
+#### Tesla Coil!  
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/tesla_big_secondary2.gif" alt="drawing" width="200"/>  
 (gif may take a moment to load)  
 
