@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 #### Soviet Nixie Tube Clock: <a href="https://github.com/levisawatz/Nixie_Clock/">Nixie_Clock</a>  
 
-<img src="https://github.com/levisawatz/Nixie_Clock/blob/main/images/nixie clock" alt="drawing" width="200"/>
+<img src="https://github.com/levisawatz/Nixie_Clock/blob/main/images/nixie clock.jpg" alt="drawing" width="200"/>
 
 #### Tesla Coil!  
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/tesla_big_secondary2.gif" alt="drawing" width="200"/>  
