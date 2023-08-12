@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/tesla_big_secondary2.gif" alt="drawing" width="400"/>  
 (gif may take a moment to load)  
 
+#### Mazes: <a href="https://github.com/levisawatz/maze_stuff/">maze_stuff</a>  
+<img src="https://github.com/levisawatz/maze_stuff/blob/main/images/mazegrid.gif" alt="drawing" width="200"/>
 
 ### 💬 Languages I use
 
