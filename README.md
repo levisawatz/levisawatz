@@ -29,23 +29,20 @@ Here are some ideas to get you started:
 - Learning New Things 📚
 
 ### My projects:  
-#### Levitating Saucer Project: <a href="https://github.com/levisawatz/Levitating-Saucer/">Levitating-Saucer</a> 
+**Levitating Saucer Project: <a href="https://github.com/levisawatz/Levitating-Saucer/">Levitating-Saucer</a>**  
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/the%20saucer%20team.jpg" alt="drawing" width="400"/>
 
-
-#### Python Cube Renderer / Game engine: <a href="https://github.com/levisawatz/Cube_sims/">Cube_sims</a>  
-
+**Python Cube Renderer / Game engine: <a href="https://github.com/levisawatz/Cube_sims/">Cube_sims</a>**  
 <img src="https://github.com/levisawatz/Cube_sims/blob/main/screenshots/cubes-cropped.gif" alt="drawing" width="400"/>
 
-#### Soviet Nixie Tube Clock: <a href="https://github.com/levisawatz/Nixie_Clock/">Nixie_Clock</a>  
-
+**Soviet Nixie Tube Clock: <a href="https://github.com/levisawatz/Nixie_Clock/">Nixie_Clock</a>**  
 <img src="https://github.com/levisawatz/Nixie_Clock/blob/main/images/nixie clock.jpg" alt="drawing" width="400"/>
 
-#### Tesla Coil!  
+**Tesla Coil!**  
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/tesla_big_secondary2.gif" alt="drawing" width="400"/>  
 (gif may take a moment to load)  
 
-#### Mazes: <a href="https://github.com/levisawatz/maze_stuff/">maze_stuff</a>  
+**Mazes: <a href="https://github.com/levisawatz/maze_stuff/">maze_stuff</a>**  
 <img src="https://github.com/levisawatz/maze_stuff/blob/main/images/mazegrid.gif" alt="drawing" width="200"/>
 
 ### 💬 Languages I use
