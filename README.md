@@ -31,7 +31,7 @@
 <img src="https://github.com/levisawatz/Nixie_Clock/blob/main/images/nixie clock.jpg" alt="clock image" width="400"/>
 
 **Tesla Coil!**  
-<img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/tesla_big_secondary2.gif" alt="tesla gif" width="400"/>  
+<img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/tesla_big_secondary2.gif" alt="tesla gif" width="300"/>  
 (gif may take a moment to load)  
 
 **Mazes: <a href="https://github.com/levisawatz/maze_stuff/">maze_stuff</a>**  
