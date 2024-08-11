@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 **Levitating Saucer Project: <a href="https://github.com/levisawatz/Levitating-Saucer/">Levitating-Saucer</a>**  
 <img src="https://github.com/levisawatz/Levitating-Saucer/blob/main/images/the%20saucer%20team.jpg" alt="saucer image" width="400"/>
 
+<picture>
+  <img src="https://github.com/levisawatz/Plasma_Flame_Radio/blob/main/Media/plasma%20candle%20yellow.png" alt="Loading..." />
+  <source srcset="https://github.com/levisawatz/Plasma_Flame_Radio/blob/main/Media/plasma%20flame.gif" type="image/gif" />
+</picture>
+
 **Python Cube Renderer / Game engine: <a href="https://github.com/levisawatz/Cube_sims/">Cube_sims</a>**  
 <img src="https://github.com/levisawatz/Cube_sims/blob/main/screenshots/cubes-cropped.gif" alt="cube sim gif" width="400"/>
 
