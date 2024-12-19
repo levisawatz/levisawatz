@@ -22,6 +22,8 @@
 <picture>
   <img src="https://github.com/levisawatz/Plasma_Flame_Radio/blob/main/Media/plasma%20candle%20yellow.png" alt="Loading..." width="200"/>
 </picture>
+ <img src="https://github.com/levisawatz/Plasma_Flame_Radio/blob/main/Media/V2%20PCB.jpg" alt="Loading..." width="200"/>
+</picture>
 
 
 **Python Cube Renderer / Game engine: <a href="https://github.com/levisawatz/Cube_sims/">Cube_sims</a>**  
