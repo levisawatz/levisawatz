@@ -20,7 +20,7 @@
 
 **10 MHz Plasma cande: <a href="https://github.com/levisawatz/Plasma_Flame_Radio">Plasma_Flame_Radio</a>**  
 <picture>
-  <img src="https://github.com/levisawatz/Plasma_Flame_Radio/blob/main/Media/plasma%20candle%20yellow.png" alt="Loading..." width="200"/>
+  <img src="https://github.com/levisawatz/Plasma_Flame_Radio/blob/main/Media/massive_flame.gif" alt="Loading..." width="200"/>
 </picture>
  <img src="https://github.com/levisawatz/Plasma_Flame_Radio/blob/main/Media/V2%20PCB.jpg" alt="Loading..." width="200"/>
 </picture>
