@@ -3,9 +3,9 @@
 ### Hi, I'm Levi Sawatzky. I'm an Electrical Engineering student
 [![Linkedin Badge](https://img.shields.io/badge/-Levi_Sawatzky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levi-sawatzky-14b0a3234/)](https://www.linkedin.com/in/levi-sawatzky-14b0a3234/)
 [![Gmail Badge](https://img.shields.io/badge/-levisawatz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levisawatz@gmail.com)](mailto:levisawatz@gmail.com) 
+[![Website Badge](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google-Chrome&logoColor=white)](https://levisawatz.github.io/)
 
-- 🎓 Currently Studying <a href="https://schulich.ucalgary.ca/electrical-software/">Electrical Enginneering</a> at the University of Calgary
-
+- Eectrical engineer graduated from University of Calgary.
 
 ### Things I love:
 
