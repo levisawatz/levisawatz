@@ -3,15 +3,15 @@
 ### Hi, I'm Levi Sawatzky. I'm an Electrical Engineering student
 [![Linkedin Badge](https://img.shields.io/badge/-Levi_Sawatzky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levi-sawatzky-14b0a3234/)](https://www.linkedin.com/in/levi-sawatzky-14b0a3234/)
 [![Gmail Badge](https://img.shields.io/badge/-levisawatz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levisawatz@gmail.com)](mailto:levisawatz@gmail.com) 
-[![Website Badge](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google-Chrome&logoColor=white)](https://levisawatz.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Profile_Website-222222?style=flat-square&logo=Google-Chrome&logoColor=white)](https://levisawatz.github.io/)
 
 - Eectrical engineer graduated from University of Calgary.
 
-### Things I love:
 
-- Electronics ⚡
-- Python  💻
-- Learning New Things 📚
+I am an electrical engiineer and electronics hobbyist with a passion for:
+- RF circuits, power electronics, analog and digital design
+- Electromagnetics, plasma, levitation, magic
+- Learning New Things
 
 ### My projects:  
 **Levitating Saucer Project: <a href="https://github.com/levisawatz/Levitating-Saucer/">Levitating-Saucer</a>**  
