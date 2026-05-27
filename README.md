@@ -1,6 +1,6 @@
 
 <!-- <h3> Hi, I'm Levi Sawatzky 👋</h3> -->
-### Hi, I'm Levi Sawatzky. I'm an Electrical Engineering student
+### Hi, I'm Levi Sawatzky. I'm an Electrical Engineer
 [![Linkedin Badge](https://img.shields.io/badge/-Levi_Sawatzky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levi-sawatzky-14b0a3234/)](https://www.linkedin.com/in/levi-sawatzky-14b0a3234/)
 [![Gmail Badge](https://img.shields.io/badge/-levisawatz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levisawatz@gmail.com)](mailto:levisawatz@gmail.com) 
 [![Website Badge](https://img.shields.io/badge/-Profile_Website-222222?style=flat-square&logo=Google-Chrome&logoColor=white)](https://levisawatz.github.io/)
